@@ -119,6 +119,7 @@ ol {
 }
 .content__video-card-description-container {
   width: max-content;
+  padding-left: 2px;
 }
 .content__video-card-title {
   color: #fff;
