@@ -60,7 +60,6 @@ ol {
 }
 .content__list {
   display: flex;
-  overflow-y: scroll;
   align-content: flex-end;
   flex-direction: column;
   height: 298px;
@@ -172,7 +171,7 @@ ol {
   border: 1px solid #fff;
   color: #fff;
   text-align: center;
-  font-family: Fira Sans Condensed;
+  font-family: Fira Sans Condensed, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
@@ -271,7 +270,7 @@ ol {
   text-underline-offset: 3px;
   text-decoration-color: #fff;
   color: #fff;
-  font-family: Fira Sans Condensed;
+  font-family: Fira Sans Condensed, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
